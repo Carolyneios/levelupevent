@@ -856,6 +856,9 @@ a {
     transform: translateY(0px);
 
 }
+ a{
+            color: #ff0077;
+        }
 
 /*_____________________BARRA DAS CATEGORIAS_____________________*/
 #caixa::-webkit-scrollbar {
