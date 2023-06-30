@@ -142,7 +142,7 @@ ul li.item-menu a:hover {
 }
 
 ul li.item-menu a {
-    color: #Ff0077;
+    
     text-decoration: none;
     font-size: 1.25rem;
     padding: 20px 4%;
@@ -857,9 +857,7 @@ a {
     transform: translateY(0px);
 
 }
- a{
-    color: #ff0077;
- }
+
 
 /*_____________________BARRA DAS CATEGORIAS_____________________*/
 #caixa::-webkit-scrollbar {
